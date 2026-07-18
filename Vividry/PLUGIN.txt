@@ -1,0 +1,4 @@
+name: Vividry
+author: Bernardo Alvim
+version: 
+description: Terminal manipulation library that expands Sapphire's manipulation capacities (ANSI codes, cursor and etc).
